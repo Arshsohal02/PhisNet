@@ -7,3 +7,4 @@ xgboost==1.7.5
 pandas==2.0.2
 openai==0.28.0
 whois==0.9.27
+scikit-learn
