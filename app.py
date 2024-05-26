@@ -282,5 +282,5 @@ def predict():
     return {"status_code": 200, "prediction": int(run_prediction(input_features[1:]))}
 
 
-if __name__ == '__main__':
-    app.run(debug=True)
+# if __name__ == '__main__':
+#     app.run(debug=True)
