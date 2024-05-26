@@ -12,6 +12,7 @@ import xgboost as xgb
 import pandas as pd
 import openai
 import json
+import os
 #  pip install openai==0.28
 
 app = Flask(__name__)
